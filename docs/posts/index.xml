@@ -16,5 +16,14 @@
       <description>Usa este post para anotar tus expectativas de la misión.</description>
     </item>
     
+    <item>
+      <title>Titulo</title>
+      <link>https://oscarledezma.github.io/my_launchx_blog/posts/post_q/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://oscarledezma.github.io/my_launchx_blog/posts/post_q/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
